@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#000000",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -24,12 +24,13 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#093091",
-        "#000000"
+        "#000000",
+        "#fafafa"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -420,7 +421,7 @@
                 "image": "@PROJECT_PATH@/assets/images/img-20190106-204302-720x1231.jpg",
                 "active": true,
                 "showButtons": false,
-                "showText": false,
+                "showText": true,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -428,12 +429,12 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "center",
                 "text": "Step 4<br>Please choice your page and wait 24hrs",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.1",
-                "overlayColor": "#ff7f9f"
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000"
               }
             ]
           },
