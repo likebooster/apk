@@ -1380,8 +1380,8 @@ body {
   background-color: #000000;
 }
 .cid-renQp3Pbal {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #000000;
 }
 .cid-renQp3Pbal .content-slider {
@@ -1641,7 +1641,7 @@ body {
   background: transparent !important;
 }
 .cid-renQp3Pbal .image_wrapper {
-  height: 400px;
+  height: 330px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -1654,7 +1654,7 @@ body {
   text-align: center;
 }
 .cid-renQp3Pbal .content-slider-wrap {
-  width: 60%;
+  width: 70%;
 }
 .cid-renQp3Pbal P {
   color: #ffffff;
