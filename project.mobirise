@@ -46,8 +46,8 @@
     "download.html": {
       "settings": {
         "main": true,
-        "title": "like booster download",
-        "meta_descr": "please download like booster apk",
+        "title": "Facebook Page Like Booster APK",
+        "meta_descr": "if you want to boost your business page up to 1000+ likes per day, you can download our application and that application will be freely used until 30 days free from the started day. When you want do continue you must pay 10$ to our booster association and thank you for your download! If your are apple user, you can go direct web link.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -367,6 +367,25 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/logo-600x600.png",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0",
+                "overlayColor": "#000000"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-20190106-204326-719x1242.jpg",
                 "active": false,
                 "showButtons": false,
@@ -419,7 +438,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20190106-204302-720x1231.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
